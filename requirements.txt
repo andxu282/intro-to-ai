@@ -1,3 +1,2 @@
-mypy
-torch
-torchvision
+numpy
+matplotlib
